@@ -19,7 +19,7 @@ namespace HM_3
         {
             get
             {
-                return List_[num];
+                return List_[num].Value_;
             }
         }
     }
