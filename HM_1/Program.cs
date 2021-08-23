@@ -18,7 +18,7 @@ public static class Combine
 	}
 }
 
-public class Example
+public class Program
 {
 	public static void Main()
 	{
